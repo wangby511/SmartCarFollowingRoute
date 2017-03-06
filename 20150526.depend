@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1432824509 source:c:\users\ping\desktop\c++gemeng后期\yest\20150526\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+	"coordinate.h"
+	"run.h"
+	"the_car.h"
+	"the_port.h"
+	"pictureDeal.h"
+
+1432653485 c:\users\ping\desktop\c++gemeng后期\yest\20150526\coordinate.h
+	<cmath>
+
+1432822940 c:\users\ping\desktop\c++gemeng后期\yest\20150526\run.h
+	<iostream>
+	<vector>
+	"cv.h"
+	"the_car.h"
+	"coordinate.h"
+	"pictureDeal.h"
+
+1432529316 c:\users\ping\desktop\c++gemeng后期\yest\20150526\the_car.h
+	"the_port.h"
+
+1432529442 c:\users\ping\desktop\c++gemeng后期\yest\20150526\the_port.h
+	<Windows.h>
+	<iostream>
+
+1432824652 c:\users\ping\desktop\c++gemeng后期\yest\20150526\picturedeal.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+
+1432825583 source:g:\大二下\工科创\20150526\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+	"coordinate.h"
+	"run.h"
+	"the_car.h"
+	"the_port.h"
+	"pictureDeal.h"
+
+1432653486 g:\大二下\工科创\20150526\coordinate.h
+	<cmath>
+
+1432822942 g:\大二下\工科创\20150526\run.h
+	<iostream>
+	<vector>
+	"cv.h"
+	"the_car.h"
+	"coordinate.h"
+	"pictureDeal.h"
+
+1432529318 g:\大二下\工科创\20150526\the_car.h
+	"the_port.h"
+
+1432529444 g:\大二下\工科创\20150526\the_port.h
+	<Windows.h>
+	<iostream>
+
+1432826862 g:\大二下\工科创\20150526\picturedeal.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+
+1433317116 source:c:\users\ping\desktop\20150528\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+	"coordinate.h"
+	"run.h"
+	"the_car.h"
+	"the_port.h"
+	"pictureDeal.h"
+
+1432653486 c:\users\ping\desktop\20150528\coordinate.h
+	<cmath>
+
+1433316907 c:\users\ping\desktop\20150528\run.h
+	<iostream>
+	<vector>
+	"cv.h"
+	"the_car.h"
+	"coordinate.h"
+	"pictureDeal.h"
+
+1433316919 c:\users\ping\desktop\20150528\the_car.h
+	"the_port.h"
+
+1432955800 c:\users\ping\desktop\20150528\the_port.h
+	<Windows.h>
+	<iostream>
+
+1433316675 c:\users\ping\desktop\20150528\picturedeal.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+

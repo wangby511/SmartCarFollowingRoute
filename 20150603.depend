@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1434176103 source:c:\users\ping\desktop\20150528\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+	"coordinate.h"
+	"run.h"
+	"the_car.h"
+	"the_port.h"
+	"pictureDeal.h"
+
+1432653486 c:\users\ping\desktop\20150528\coordinate.h
+	<cmath>
+
+1434175449 c:\users\ping\desktop\20150528\run.h
+	<iostream>
+	<vector>
+	"cv.h"
+	"the_car.h"
+	"coordinate.h"
+	"pictureDeal.h"
+
+1433860141 c:\users\ping\desktop\20150528\the_car.h
+	"the_port.h"
+
+1433347460 c:\users\ping\desktop\20150528\the_port.h
+	<Windows.h>
+	<iostream>
+
+1434176103 c:\users\ping\desktop\20150528\picturedeal.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+
+1434176103 source:l:\第四学期文件\2b_car\小车最终检测软件代码\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+	"coordinate.h"
+	"run.h"
+	"the_car.h"
+	"the_port.h"
+	"pictureDeal.h"
+
+1432653486 l:\第四学期文件\2b_car\小车最终检测软件代码\coordinate.h
+	<cmath>
+
+1434175449 l:\第四学期文件\2b_car\小车最终检测软件代码\run.h
+	<iostream>
+	<vector>
+	"cv.h"
+	"the_car.h"
+	"coordinate.h"
+	"pictureDeal.h"
+
+1433860141 l:\第四学期文件\2b_car\小车最终检测软件代码\the_car.h
+	"the_port.h"
+
+1433347460 l:\第四学期文件\2b_car\小车最终检测软件代码\the_port.h
+	<Windows.h>
+	<iostream>
+
+1434176103 l:\第四学期文件\2b_car\小车最终检测软件代码\picturedeal.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<opencv2\opencv.hpp>
+	<cmath>
+
